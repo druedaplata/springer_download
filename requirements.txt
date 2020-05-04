@@ -2,3 +2,4 @@ wget>=3.2
 tqdm>=4.36.1
 requests>=2.22.0
 pandas>=0.25.1
+xlrd>=1.0.0
